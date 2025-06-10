@@ -1,14 +1,6 @@
 ## 👩🏾‍💻 Olá! Seja- Bem vindo(a)! 
 
-Eu sou **Jaqueline de Lima Campos**, apaixonada por aprendizado e estou iniciando a minha jornada na área da  **tecnologia**, com foco em **desenvolvimento web**.
-
-Atualmente estudo **HTML, CSS e JavaScript** e estou desenvolvendo meus primeiros projetos para aplicar os conhecimentos e crescer na área de tecnologia.
-
-
-## Tecnologias em aprendizado:
-- HTML
-- CSS
-- JavaScript
+Eu sou **Jaqueline de Lima Campos**, estou iniciando a minha jornada na área da  **Tecnologia**, com foco na área de **Dados**. Porém tenho experiência em "HTML", "CSS" e "JavaScript".
 
 
 ------------------------
