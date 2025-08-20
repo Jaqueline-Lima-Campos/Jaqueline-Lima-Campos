@@ -1,6 +1,7 @@
 ## 👩🏾‍💻 Olá! Seja- Bem vindo(a)! 
 
-Eu sou **Jaqueline de Lima Campos**, estou iniciando a minha jornada na área da  **Tecnologia**, com foco na área de **Dados**. Porém tenho experiência em "HTML", "CSS" e "JavaScript".
+Eu sou **Jaqueline de Lima Campos**, estudante de Engenharia de Software e aqui é onde eu exponho meus Projetos. 
+
 
 
 ------------------------
